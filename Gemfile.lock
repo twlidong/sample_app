@@ -27,7 +27,12 @@ GEM
       tzinfo (~> 0.3.37)
     arel (4.0.0)
     atomic (1.1.9)
+<<<<<<< HEAD
     bcrypt-ruby (3.0.1)
+=======
+    bootstrap-sass (2.3.2.0)
+      sass (~> 3.2)
+>>>>>>> filling-in-layout
     builder (3.1.4)
     capybara (2.1.0)
       mime-types (>= 1.16)
@@ -143,7 +148,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   bcrypt-ruby (= 3.0.1)
+=======
+  bootstrap-sass (= 2.3.2.0)
+>>>>>>> filling-in-layout
   capybara (= 2.1.0)
   coffee-rails (= 4.0.0)
   jbuilder (= 1.0.2)
